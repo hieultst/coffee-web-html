@@ -1067,6 +1067,14 @@ body {
     max-width: 70%;
 }
 
+.contact-section .infomation {
+    text-align: start;
+}
+
+.contact-section .infomation .item {
+    display: flex;
+}
+
 .map-section {
     height: max-content;
     padding-bottom: 0;
